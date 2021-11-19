@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ghdnjs18/movie-route/static/css/main.c249f557.chunk.css",
+    "main.js": "/ghdnjs18/movie-route/static/js/main.d037794f.chunk.js",
+    "main.js.map": "/ghdnjs18/movie-route/static/js/main.d037794f.chunk.js.map",
+    "runtime-main.js": "/ghdnjs18/movie-route/static/js/runtime-main.7f5c7bc0.js",
+    "runtime-main.js.map": "/ghdnjs18/movie-route/static/js/runtime-main.7f5c7bc0.js.map",
+    "static/js/2.c6063bd7.chunk.js": "/ghdnjs18/movie-route/static/js/2.c6063bd7.chunk.js",
+    "static/js/2.c6063bd7.chunk.js.map": "/ghdnjs18/movie-route/static/js/2.c6063bd7.chunk.js.map",
+    "static/js/3.0b4b2a65.chunk.js": "/ghdnjs18/movie-route/static/js/3.0b4b2a65.chunk.js",
+    "static/js/3.0b4b2a65.chunk.js.map": "/ghdnjs18/movie-route/static/js/3.0b4b2a65.chunk.js.map",
+    "index.html": "/ghdnjs18/movie-route/index.html",
+    "static/css/main.c249f557.chunk.css.map": "/ghdnjs18/movie-route/static/css/main.c249f557.chunk.css.map",
+    "static/js/2.c6063bd7.chunk.js.LICENSE.txt": "/ghdnjs18/movie-route/static/js/2.c6063bd7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f5c7bc0.js",
+    "static/js/2.c6063bd7.chunk.js",
+    "static/css/main.c249f557.chunk.css",
+    "static/js/main.d037794f.chunk.js"
+  ]
+}
