@@ -25,7 +25,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://github.com/ghdnjs18/movie-route",
+  "homepage": "https://ghdnjs18.github.io/movie-route",
   "browserslist": {
     "production": [
       ">0.2%",
