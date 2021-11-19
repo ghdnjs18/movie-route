@@ -1,5 +1,5 @@
 import './Home.css'
-import { useEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 
 function Home() {
     const [movies, setMovies] = useState([]);

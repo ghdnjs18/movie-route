@@ -1,6 +1,5 @@
 import './App.css';
-
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { Route, Routes } from 'react-router-dom';
 import { Home, About, Movie, NotFound } from './pages';
 import Menu from './Menu';

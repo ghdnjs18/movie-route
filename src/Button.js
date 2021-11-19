@@ -1,4 +1,5 @@
 import './Button.css'
+import React from "react";
 
 function Button({children, size, color, width, handleClick, disabled}) {
     return <button className={`Button ${size} ${color} ${width}`}

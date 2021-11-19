@@ -1,7 +1,6 @@
 import './Movie.css'
-
 import { NavLink, useLocation, useParams, useSearchParams } from "react-router-dom";
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 // import movies from "../postData";
 
 function Movie() {
