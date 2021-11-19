@@ -3,7 +3,7 @@ import App from "./App";
 
 function Browser() {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename="/movie-route">
             <App></App>
         </BrowserRouter>
     )
