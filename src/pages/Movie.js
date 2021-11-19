@@ -14,7 +14,7 @@ function Movie() {
 
     // 첫 로딩에 모든 영화 정보 가저오기
     useEffect(() => {
-        fetch('https://yts.mx/api/v2/list_movies.json?limit=12')
+        fetch('https://yts.mx/api/v2/list_movies.json?sort_by=download_count')
         .then(res => res.json())
         .then( result => {
             const {data: {movies}} = result
