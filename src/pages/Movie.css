@@ -1,0 +1,59 @@
+#root {
+    position: relative;
+    background: #282c34;
+    width: 100%;
+    height: 100%;
+  }
+  
+.movies {
+    width: 80vw;
+    margin: auto;
+}
+
+.movie-container{ 
+    width: 60%; 
+    margin: 20px auto;
+    padding: 20px; 
+    background: orangered; 
+    color: white; 
+    border-radius: 10px; 
+    box-sizing: border-box;
+} 
+.movie-item{ 
+    text-decoration: none; 
+    display: flex; 
+    flex-direction: column; 
+    color: lightsalmon; 
+    font-size: 1.5rem; 
+    font-weight: bold; 
+} 
+.movie-item:hover{ 
+    color: orangered; 
+}
+
+.filter-movie{ 
+    all: unset; 
+    margin: 20px; 
+    width: 60%; 
+    height: 50px; 
+    border: 2px solid lightsalmon; 
+    border-radius: 15px; 
+    text-align: left; 
+    padding-left: 15px; 
+    color: lightsalmon; 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+    box-sizing: border-box;
+} 
+.filter-movie::placeholder{ 
+    color: lightsalmon; 
+    font-size: 1.2rem; 
+    font-weight: bold; 
+}
+
+.movie-search {
+    width: 60%;
+    padding: 10px; 
+    margin: 20px 30px auto;
+    /* box-sizing: border-box; */
+}

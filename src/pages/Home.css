@@ -1,0 +1,18 @@
+html, body {margin: 0; padding: 0; height: 100%; background: #282c34;}
+html {position: relative;}
+body{position:relative; z-index:1;}
+
+.home-cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.home-card {
+    display: block;
+    width: 230px;
+    object-fit: contain;
+    border: 1px solid beige;
+    margin: 10px 10px auto;
+    box-Shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
